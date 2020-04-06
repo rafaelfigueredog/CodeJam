@@ -1,8 +1,8 @@
 # Google Code Jam 2020
 
-![Code Jam](/pictures/codejam.png)
+<img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codejam.png" width="50%">
 
-- QualificationRound: 
+- Qualification Round
 
     - Vestigium <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
     - Nesting Depth <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
