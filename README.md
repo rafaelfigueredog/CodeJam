@@ -1,11 +1,10 @@
 # Google Code Jam 2020
 
-<img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codeJam.jpg" scale=0.5/>
+![Code Jam](/pictures/codejam.png)
 
-* QualificationRound:
-
-    - Vestigium (solved)
-    - Nesting Depth (solved)
-    - Parenting Partnering Returns (solved)
-    - ESAb ATAd
-    - Indicium
+- QualificationRound: 
+    1. Vestigium ![solved](/pictures/148767.svg)
+    2. Nesting Depth  ![solved](/pictures/148767.svg)
+    3. Parenting Partnering Returns  ![solved](/pictures/148767.svg)
+    4. ESAb ATAd
+    5. Indicium 
