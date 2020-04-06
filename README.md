@@ -1,4 +1,4 @@
-# Google Code Jam 2020
+# Code Jam 2020
 
 <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/img/codejam.png" width="50%">
 
