@@ -2,7 +2,7 @@
 
 <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codejam.png" width="50%">
 
-- [Qualification Round 2020](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
+- [problems Qualification Round 2020](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
 
     - [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/check.svg" width="2%">
     - [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/check.svg" width="2%">
