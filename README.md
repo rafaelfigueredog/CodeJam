@@ -1,6 +1,6 @@
-Google Code Jam 2020
+# Google Code Jam 2020
 
-<img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codeJam.jpg" width=“50”/>
+<img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codeJam.jpg" width=“20”/>
 
 * QualificationRound:
 
