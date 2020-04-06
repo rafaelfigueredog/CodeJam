@@ -2,10 +2,10 @@
 
 <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/codejam.png" width="50%">
 
-- Qualification Round
+- [Qualification Round](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
 
-    - Vestigium <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
-    - Nesting Depth <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
-    - Parenting Partnering Returns <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
-    - ESAb ATAd
-    - Indicium 
+    - [Vestigium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c) <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
+    - [Nesting Depth](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f) <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
+    - [Parenting Partnering Returns](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9) <img src="https://github.com/rafaelfigueredog/CodeJam/blob/master/pictures/148767.svg" width="2%">
+    - [ESAb ATAd](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e)
+    - [Indicium](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0)
